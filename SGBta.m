@@ -16,7 +16,7 @@
 
 %% NOTE:
 
-% The following script aims to automate the subgrain boundary trace
+% The following MATLAB script aims to automate the subgrain boundary trace
 % analysis (e.g. Prior et al. 2002, Reddy et al. 2007, Barrie et al. 2008)
 % and plot the orientations of the subgrain boundary wall and slip plane 
 % along with their poles as equal area, lower hemisphere stereoplots.
